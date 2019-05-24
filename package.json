@@ -1,0 +1,25 @@
+{
+  "name": "store-lite",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "description": "Minimalist store for Rxjs with Facades",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "prepublish": "npm run build"
+  },
+  "keywords": [
+    "RxJS",
+    "Angular",
+    "Facades",
+    "Store"
+  ],
+  "typings": "./dist/index.d.ts",
+  "maintainers": [
+    "Angel Núñez"
+  ],
+  "devDependencies": {
+    "rxjs": "~6.3.3",
+    "typescript": "~3.2.2"
+  }
+}
