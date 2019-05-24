@@ -1,9 +1,15 @@
 ###  Store-lite
 
 This library is just a utility that facilitates the implementation of the Facade + Rxjs pattern.
-This pattern was presented in the ng-conf 2019 by [Thomas Burleson](https://twitter.com/ThomasBurleson "Thomas Burleson") . In addition to other articles such as:
+This pattern was [presented](https://www.youtube.com/watch?v=h-F5uYM69a4&list=PLOETEcp3DkCpimylVKTDe968yNmNIajlR&index=53 "presented") in the ng-conf 2019 by [Thomas Burleson](https://twitter.com/ThomasBurleson "Thomas Burleson") . In addition to other articles such as:
 - [View Facades + RxJS!](https://blog.angularindepth.com/angular-you-may-not-need-ngrx-e80546cc56ee "View Facades + RxJS!")
 - [Why I stopped using NGRX](https://medium.com/@liorcaspi9/why-i-stopped-using-ngrx-68dfc3cf3be9 "Why I stopped using NGRX")
+
+### How to install?
+
+```
+npm i --save @mailok/store-lite
+```
 
 ### How to use?
 
